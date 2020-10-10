@@ -1,0 +1,163 @@
+*{
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+header{
+
+    background-color: wheat;
+
+    height: 10vh;
+
+    margin-bottom: 3%;
+
+}
+
+body{
+
+    background-image: url(../img/pic2.jpg);
+
+    background-size: 100%;
+
+    background-position: justify;
+
+    text-align: center;
+
+    padding-bottom: 5%;
+
+}
+
+.main{
+
+    width: auto;
+
+    border: 2px solid transparent;
+
+    text-align: center;
+
+}
+
+h1{
+
+    font-size: 50px;
+
+    text-shadow: -4px 4px 3px blue;
+
+    display: block;
+
+}
+
+.pic{
+
+    float: left;
+
+    width: 210px;
+
+    height: 210px;
+
+    border-radius:50%  ;
+
+    border: 2px solid gray;
+
+    box-shadow: 2px -2px 2px 2px gray;
+
+    position: relative;
+
+    left: 41%;
+
+}
+
+.intro{
+
+    position: relative;
+
+    border: 1px solid transparent;
+
+    width: 50%;
+
+    margin-left: 25%;
+
+    height: auto;
+
+    text-align: center;
+
+    margin-top: 5%;
+
+}
+
+h2{
+
+	font-size: 40px;
+
+    color: blue;
+
+	text-shadow: -2px 10px 5px black;
+
+    font-weight: bold;
+
+    padding-bottom: 20px;
+
+}
+
+h3{
+
+    font-size: 30px;
+
+    color: green;
+
+    font-weight: bold;
+
+    padding-bottom: 20px;
+
+}
+
+p{
+
+    font-size: 20px;
+
+    color: white;
+
+	font-family: Century Gothic;
+
+}
+
+h4{
+
+    font-size: 30px;
+
+    font-weight: bold;
+
+	text-shadow: -2px 10px 5px black;
+
+    color: blue;
+
+    padding: 20px 0px 20px 0px;
+
+}
+
+h5{
+
+	font-size: 30px;
+
+    font-weight: bold;
+
+    color: blue;
+
+	text-shadow: -2px 10px 5px black;
+
+    padding: 20px 0px 20px 0px;
+
+}
+
+ul li{
+
+	font-family: Century Gothic;
+
+    color: white;
+
+    font-size: 20px;
+
+}
